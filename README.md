@@ -57,7 +57,7 @@ This project is [MIT](LICENCE) licensed.
 ---
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/121867877/236162557-6f66769c-aa6e-49c3-84b3-6e3692634990.png">
+<img src="https://user-images.githubusercontent.com/121867877/236162557-6f66769c-aa6e-49c3-84b3-6e3692634990.png" width= "300px">
   
 ---
 ### You can show some respect by starring 🌟 the repository!
