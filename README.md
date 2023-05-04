@@ -1,4 +1,4 @@
-# Color_Pallate
+# TO_DO_APP
 
 
 <div align="center">
@@ -6,7 +6,7 @@
 <img src="https://static.vecteezy.com/system/resources/previews/004/840/946/original/making-checklist-word-concepts-banner-to-do-list-of-daily-tasks-and-chores-infographics-with-linear-icons-on-red-planning-appointments-isolated-typography-outline-rgb-color-illustration-vector.jpg">
 
 
-# **Color Pallate**
+# **TO_DO App**
 Made by Kishan Gaudani
 
 ---
@@ -17,16 +17,16 @@ Made by Kishan Gaudani
 
 ## 🗒 About
 
-These are Color Pallate app using Color Pallate.
+These are TO_DO app using Time schedule.
 
 ## ⚙️ Features
 
 - Main features are as follows:
 
-    - Use Color Json
-    - Colorcode
-    - Select color
-    - Easy to Download color  
+    - Use Time schedule
+    - DARK / WHITE theme
+    - Select Task
+    - Easy to search task  
     
 ## 📲 Screenshots
 
